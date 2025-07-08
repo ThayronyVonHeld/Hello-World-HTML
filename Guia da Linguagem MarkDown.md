@@ -24,8 +24,8 @@ Lista numerada:
 ## ✅ Minhas tarefas de estudo
 
 - [x] Aprender sobre Git e GitHub  
-- [ ] Aprender HTML e CSS  
-- [ ] Aprender JavaScript + DOM  
+- [x] Aprender HTML e CSS  
+- [x] Aprender JavaScript + DOM  
 - [ ] Aprender React  
 - [ ] Aprender HTTP e APIs  
 - [ ] Aprender Node.js + Express  
