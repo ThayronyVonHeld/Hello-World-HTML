@@ -41,7 +41,9 @@ JavaScript | 2h
 
 ---
 
-> 📌 Arquivo criado como parte da minha jornada de aprendizado em Desenvolvimento Web.  
+> 📌 Arquivo criado como parte da minha jornada de aprendizado em Desenvolvimento Web.
+
+> Veja mais sobre MarkDown com um guia do CursoEmVideo: [https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf]  
 
 
 
