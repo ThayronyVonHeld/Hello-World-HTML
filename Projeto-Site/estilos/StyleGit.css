@@ -11,12 +11,9 @@ body {
 
 main{
     background-color: rgba(244, 248, 4, 0.938);
-    width: 500px;
+    width: 570px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.541);
 }
 
-img.lado{
-    float: right
-}
